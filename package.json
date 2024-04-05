@@ -1,7 +1,7 @@
 {
   "name": "very-simple-todo-list-app-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "A very simple todo list app",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
